@@ -6,7 +6,7 @@
   "dependencies": {
     "@types/enzyme-adapter-react-16": "1.0.3",
     "applicationinsights-js": "1.0.20",
-    "cross-fetch": "2.2.2",
+    "cross-fetch": "3.0.6",
     "deep-equal": "1.0.1",
     "is-absolute-url": "2.1.0",
     "monaco-editor": "0.14.3",
